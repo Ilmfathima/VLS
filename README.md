@@ -12,4 +12,7 @@ Syllabus Alignment: Notes provided on our platform are meticulously organized ac
 User-Friendly Interface: With a focus on simplicity and ease of use, our platform features an intuitive interface designed to enhance the learning experience for students of all levels.
 Notes can be downloaded to your devices in pdf format.
 
+Technologies Used:
+HTML and CSS used as the Front-End Languages while PHP and JavaScrpit were used to build the Back-End.
+
 We welcome contributions from the community to help improve and expand our Virtual Learning System. To contribute.
